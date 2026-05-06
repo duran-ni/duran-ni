@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nieves Durán</h1>
+<h3 align="center">I am a web development apprentice</h3>
 
-<!--
-**duran-ni/duran-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **education sector**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am training **in full-stack web development with Java at F5 Factory**
+
+- I've created a project **using HTML and CSS.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/nieves_du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nieves_du" height="30" width="40" /></a>
+</p>
